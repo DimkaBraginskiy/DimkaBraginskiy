@@ -1,6 +1,6 @@
 # Greetings!
 
-### I am a **Computer Science student at PJATK**!
+### I am a **Computer Science student at Polish-Japanese Institute of information technology**!
 
 ---
 
