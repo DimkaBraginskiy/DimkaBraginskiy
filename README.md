@@ -14,8 +14,7 @@
 ![Java Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![EF.CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)
-![Java Swing](https://img.shields.io/badge/Java--Swing-green?style=for-the-badge)
-[![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,9 +30,11 @@
 ![REACT](https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=cyan)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-261585?style=for-the-badge&logo=typescript&logoColor=blue)
 
----
+### Additional skills:
+![Java Swing](https://img.shields.io/badge/Java--Swing-green?style=for-the-badge)
+[![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-brahinskyi-266439313/)
+## Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-brahinskyi-266439313/)
 
 
 
